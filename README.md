@@ -26,7 +26,7 @@ Dataset can be downloaded from [the link](http://bit.ly/eeg-eyeblinks-dataset)
 Put `EEG-IO` or `EEG-VV` or `EEG-VR` dataset in `data/` folder, and choose the appropriate options in `blink.py`
 Run `blink.py` for replicating the results presented in the paper
 
-## Sample Output
+#### Sample Output
 
 ```
 File Name:  S05_data.csv S05_labels.csv
