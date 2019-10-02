@@ -7,7 +7,7 @@ The dataset and codes are freely available for research use. Please cite the fol
 <blockquote>
   <p>Mohit Agarwal, Raghupathy Sivakumar<br />
 BLINK: A Fully Automated Unsupervised Algorithm for Eye-Blink Detection in EEG Signals<br />
-56th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2019.</p>
+57th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2019.</p>
 </blockquote>
 
 ## Dataset
