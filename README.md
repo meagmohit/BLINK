@@ -12,7 +12,7 @@ BLINK: A Fully Automated Unsupervised Algorithm for Eye-Blink Detection in EEG S
 
 ## Dataset
 ----------
-Dataset can be downloaded from [the link](http://bit.ly/eeg-eyeblinks-dataset)
+Dataset can be downloaded from [the link](http://gnan.ece.gatech.edu/eeg-eyeblinks/)
 
 | Dataset       |  Type     | Users         | Blinks|
 | ------------- |:----------|:-------------:| -----:|
